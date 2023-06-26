@@ -11,6 +11,31 @@ I report to Tracy Ferguson.
 
 Here's where I [sit in the ORG](https://realtor.workplace.com/work/org/100063142959356?ref=profile_cover_button)
 
+## Role and Responsibility
+
+IC Tech [Role Matrix](https://moveinc.atlassian.net/wiki/spaces/ENGN/pages/115830294524/Individual+Contributors#T6---Principal%3A-Individual-Contributor)
+
+In the [Content org](https://newscorp.enterprise.slack.com/files/U04L2PR739U/F05DNEQ75HC/content_org_-_july_2023) I help with every sub-org and squad as a Principal Engineer.
+
+
+Here are some common responsibilities:
+
+- `Technical Leadership`: As a subject matter expert in tech field and provide technical leadership to the engineering team. You guide and mentor other engineers, helping them solve complex technical challenges and ensuring the overall technical excellence of the projects.
+
+- `Architecture and Design`: Instill collaboration & transparency to design and architect complex systems or solutions. This involves evaluating technical requirements, proposing suitable architectures, making design decisions, and ensuring scalability, performance, and maintainability of the systems.
+
+- `Technical Strategy and Roadmap`: Contribute to the development of the technical strategy and roadmap for the organization. This includes identifying emerging technologies, evaluating their potential impact, and making recommendations on their adoption to drive innovation and maintain a competitive edge.
+
+- `Collaboration and Stakeholder Management`: Work closely with cross-functional teams, product managers, and stakeholders to understand business requirements, translate them into technical solutions, and ensure alignment between technical decisions and business goals.
+
+- `Research and Innovation`: Staying up-to-date with the latest industry trends, research, and best practices. I often conduct research, explore new technologies, and evaluate their feasibility and applicability to drive innovation and continuous improvement.
+
+- `Quality Assurance and Best Practices`: I (through collaboration) will help establish and enforce engineering best practices, coding standards, and quality assurance processes. This includes conducting code reviews, promoting automated testing, and ensuring adherence to industry standards and regulatory compliance.
+
+- `Problem Solving and Troubleshooting:` I am a skilled problem solver & am capable of analyzing complex technical issues, identifying root causes, and proposing effective solutions. I am often involved in troubleshooting critical production incidents and guiding the resolution process.
+
+
+
 ## Gus' DISC style
 
 [What is DISC?](https://www.discprofile.com/what-is-disc) DiSC® is a personal assessment tool used by more than one million people every year to help improve teamwork, communication, and productivity in the workplace.
