@@ -5,17 +5,17 @@ And the best way to work with me.
 
 ## at RDC
 
-I'm a **Principal Software Engineer** in the `Content` Community.
+I'm a **Principal Software Engineer** in the `Core Tech - Platform Engineering` Division.
 
-I report to Tracy Ferguson.
+I report to Andrew Mattie.
 
-Here's where I [sit in the ORG](https://realtor.workplace.com/work/org/100063142959356?ref=profile_cover_button)
+Here's where I [sit in the ORG](https://app.glean.com/directory/orgchart?person=21E196C2C13E1508BBDFFF6040FBF2EE)
 
 ## Role and Responsibility
 
 IC Tech [Role Matrix](https://moveinc.atlassian.net/wiki/spaces/ENGN/pages/115830294524/Individual+Contributors#T6---Principal%3A-Individual-Contributor)
 
-In the [Content org](https://newscorp.enterprise.slack.com/files/U04L2PR739U/F05DNEQ75HC/content_org_-_july_2023) I help with every sub-org and squad as a Principal Engineer.
+In the Platform Engineering Division I help with every org and squad as a Principal Engineer.
 
 
 Here are some common responsibilities:
@@ -40,7 +40,11 @@ Here are some common responsibilities:
 
 [What is DISC?](https://www.discprofile.com/what-is-disc) DiSC® is a personal assessment tool used by more than one million people every year to help improve teamwork, communication, and productivity in the workplace.
 
-### Gus's Overview
+[Complete DiSC README](./GustavoLopez-DISC.pdf)
+
+This is a great read on how I work well with every DiSC style. IE: How we can both work at our full potential.
+
+### Gus's DiSC Overview
 
 My DiSC® Style: `iD`
 
@@ -110,6 +114,10 @@ Many of the following aspects of your work may be stressful for you:
 - Using a slow, systematic approach
 - Dealing with people who don’t meet your standards
 - Having to keep your opinions to yourself
+
+## Strength Finder
+
+[Top 5 Strength Finder](./Lopez-Gus-SF_TOP_5%20(1).pdf)
 
 ## Social Media (RDC)
 
